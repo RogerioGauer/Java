@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FuncHorista
+comment0.text=\r\n\ Classe\ herdeira\ da\ classe\ Funcionario.\ \ \r\n\ @author\ (Rog\u00E9rio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nom\ ema\ qtd\ val
+comment1.target=FuncHorista(java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ FuncHorista\r\n
+comment2.params=
+comment2.target=double\ calcularSalario()
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MinhaInterface
+comment0.text=\r\n\ A\ interface\ serve\ para\ distribuir\ heran\u00E7a\ para\ diversas\ classes\ filhas.\r\n\ Uma\ classeFilha\ pode\ receber\ heran\u00E7a\ de\ apenas\ uma\ classePai,\ por\u00E9m\ pode\ receber\ heran\u00E7a\ de\r\n\ diversas\ interfaces.\ \r\n
+comment1.params=y
+comment1.target=int\ metodoQuePrecisaSerImplementado(int)
+numComments=2

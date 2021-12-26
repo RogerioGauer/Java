@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MinhaClasse
+comment0.text=\r\n\ implements\ serve\ para\ herdar\ elementos\ de\ diversas\ interfaces.\r\n\ extends\ serve\ para\ herdar\ elementos\ de\ apenas\ uma\ \u00FAnica\ classe.\r\n\ Por\ esta\ classe\ conter\ implements,\ \u00E9\ obrigat\u00F3ria\ a\ declara\u00E7\u00E3o\ dos\ m\u00E9todos\ da\r\n\ interface\ correspondente.\r\n
+comment1.params=nro
+comment1.target=int\ metodoQuePrecisaSerImplementado(int)
+numComments=2

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment0.text=\r\n\ Classe\ pai\ das\ classes\ herdeiras\ FuncHorista\ e\ FuncIntegral.\ \r\n\ @author\ (Rog\u00E9rio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nom\ ema
+comment1.target=Funcionario(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Funcionario\r\n
+comment2.params=nom
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=ema
+comment3.target=void\ setEmail(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=java.lang.String\ getEmail()
+comment6.params=
+comment6.target=double\ calcularSalario()
+numComments=7
