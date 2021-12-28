@@ -1,0 +1,9 @@
+package br.com.alfaloja.controller;
+
+@Controller
+public class ProdutoController {
+	
+	public String listarProdutos() {
+		return "list";
+	}
+}
