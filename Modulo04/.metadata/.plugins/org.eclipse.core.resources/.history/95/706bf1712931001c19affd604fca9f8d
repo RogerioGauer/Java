@@ -1,0 +1,8 @@
+package br.com.alfaloja.repository;
+
+import br.com.alfaloja.model.Produto;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ProdutoDAO extends JpaRepository<Produto, Long> {
+
+}
