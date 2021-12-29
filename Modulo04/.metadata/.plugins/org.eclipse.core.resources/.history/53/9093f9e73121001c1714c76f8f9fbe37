@@ -1,8 +1,0 @@
-package model;
-
-public class Produto {	
-	private int idproduto;
-	private String nome;
-	private String codigo;	
-}
-

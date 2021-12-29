@@ -1,7 +1,0 @@
-package br.com.alfaloja.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface ProdutoDAO extends JpaRepository {
-
-}
